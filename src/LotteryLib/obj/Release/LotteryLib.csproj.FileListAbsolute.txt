@@ -1,0 +1,5 @@
+D:\WorkSpace\Code\LotteryServices\LotteryLib\bin\Release\LotteryLib.dll
+D:\WorkSpace\Code\LotteryServices\LotteryLib\bin\Release\LotteryLib.pdb
+D:\WorkSpace\Code\LotteryServices\LotteryLib\obj\Release\LotteryLib.dll
+D:\WorkSpace\Code\LotteryServices\LotteryLib\obj\Release\LotteryLib.pdb
+D:\WorkSpace\Code\LotteryServices\LotteryLib\obj\Release\LotteryLib.csprojResolveAssemblyReference.cache

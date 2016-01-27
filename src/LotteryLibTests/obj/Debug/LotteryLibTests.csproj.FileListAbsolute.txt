@@ -1,0 +1,12 @@
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\bin\Debug\LotteryLibTests.dll.config
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\bin\Debug\LotteryLibTests.dll
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\bin\Debug\LotteryLibTests.pdb
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\bin\Debug\EntityFramework.dll
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\bin\Debug\EntityFramework.SqlServer.dll
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\bin\Debug\LotteryLib.dll
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\bin\Debug\LotteryLib.pdb
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\bin\Debug\EntityFramework.xml
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\bin\Debug\EntityFramework.SqlServer.xml
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\obj\Debug\LotteryLibTests.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\obj\Debug\LotteryLibTests.dll
+D:\WorkSpace\Code\LotteryServices\LotteryLibTests\obj\Debug\LotteryLibTests.pdb

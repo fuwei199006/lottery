@@ -1,0 +1,17 @@
+D:\Project\松下\人事\PanasonicSalaryQuery\ServiceManger\bin\Release\ServiceManger.exe.config
+D:\Project\松下\人事\PanasonicSalaryQuery\ServiceManger\bin\Release\ServiceManger.exe
+D:\Project\松下\人事\PanasonicSalaryQuery\ServiceManger\bin\Release\ServiceManger.pdb
+D:\Project\松下\人事\PanasonicSalaryQuery\ServiceManger\obj\Release\ServiceManger.InstallServices.resources
+D:\Project\松下\人事\PanasonicSalaryQuery\ServiceManger\obj\Release\ServiceManger.Properties.Resources.resources
+D:\Project\松下\人事\PanasonicSalaryQuery\ServiceManger\obj\Release\ServiceManger.csproj.GenerateResource.Cache
+D:\Project\松下\人事\PanasonicSalaryQuery\ServiceManger\obj\Release\ServiceManger.exe
+D:\Project\松下\人事\PanasonicSalaryQuery\ServiceManger\obj\Release\ServiceManger.pdb
+D:\Project\松下\人事\PanasonicSalaryQuery\ServiceManger\obj\Release\ServiceManger.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Code\LotteryServices\ServiceManger\bin\Release\ServiceManger.exe.config
+D:\WorkSpace\Code\LotteryServices\ServiceManger\obj\Release\ServiceManger.exe
+D:\WorkSpace\Code\LotteryServices\ServiceManger\obj\Release\ServiceManger.pdb
+D:\WorkSpace\Code\LotteryServices\ServiceManger\bin\Release\ServiceManger.exe
+D:\WorkSpace\Code\LotteryServices\ServiceManger\bin\Release\ServiceManger.pdb
+D:\WorkSpace\Code\LotteryServices\ServiceManger\obj\Release\ServiceManger.InstallServices.resources
+D:\WorkSpace\Code\LotteryServices\ServiceManger\obj\Release\ServiceManger.Properties.Resources.resources
+D:\WorkSpace\Code\LotteryServices\ServiceManger\obj\Release\ServiceManger.csproj.GenerateResource.Cache

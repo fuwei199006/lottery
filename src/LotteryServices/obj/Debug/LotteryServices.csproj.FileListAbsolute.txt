@@ -1,0 +1,10 @@
+D:\WorkSpace\Code\LotteryServices\LotteryServices\bin\Debug\LotteryServices.exe.config
+D:\WorkSpace\Code\LotteryServices\LotteryServices\bin\Debug\LotteryServices.exe
+D:\WorkSpace\Code\LotteryServices\LotteryServices\bin\Debug\LotteryServices.pdb
+D:\WorkSpace\Code\LotteryServices\LotteryServices\obj\Debug\LotteryServices.ProjectInstaller.resources
+D:\WorkSpace\Code\LotteryServices\LotteryServices\obj\Debug\LotteryServices.csproj.GenerateResource.Cache
+D:\WorkSpace\Code\LotteryServices\LotteryServices\obj\Debug\LotteryServices.exe
+D:\WorkSpace\Code\LotteryServices\LotteryServices\obj\Debug\LotteryServices.pdb
+D:\WorkSpace\Code\LotteryServices\LotteryServices\obj\Debug\LotteryServices.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Code\LotteryServices\LotteryServices\bin\Debug\LotteryLib.dll
+D:\WorkSpace\Code\LotteryServices\LotteryServices\bin\Debug\LotteryLib.pdb
